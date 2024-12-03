@@ -50,7 +50,7 @@ clean:
 # -include $(INCLUDE_DIRS)/include.hugo.mk
 # -include $(INCLUDE_DIRS)/include.jupyter.mk
 # -include $(INCLUDE_DIRS)/include.node.mk
-# -include $(INCLUDE_DIRS)/include.python.mk
+-include $(INCLUDE_DIRS)/include.python.mk
 # -include $(INCLUDE_DIRS)/include.rhash.mk
 
 # normally your organization stuff appears last

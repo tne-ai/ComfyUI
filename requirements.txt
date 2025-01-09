@@ -1,4 +1,4 @@
-torch
+torch>=2.6.0.dev20241209
 torchsde
 torchvision
 torchaudio
